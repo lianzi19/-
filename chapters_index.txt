@@ -9,16 +9,16 @@ https://raw.githubusercontent.com/lianzi19/-/refs/heads/main/%E6%A7%BF%E8%AE%BE%
 
 【主线章节】
 第一章：
-https://raw.githubusercontent.com/lianzi19/-/refs/heads/main/%E7%AC%AC%E4%B8%80%E7%AB%A0.txt?token=GHSAT0AAAAAADSKRABXZJAJFWCDOV57B5GY2KYGCTQ
+https://raw.githubusercontent.com/lianzi19/-/refs/heads/main/%E7%AC%AC%E4%B8%80%E7%AB%A0.txt
 第二章：
-https://raw.githubusercontent.com/lianzi19/-/refs/heads/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0.txt?token=GHSAT0AAAAAADSKRABWAT5B7FJGMHCN23JW2KYGKFA
+https://raw.githubusercontent.com/lianzi19/-/refs/heads/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0.txt
 第三章：
-https://raw.githubusercontent.com/lianzi19/-/refs/heads/main/%E7%AC%AC%E4%B8%89%E7%AB%A0.txt?token=GHSAT0AAAAAADSKRABXLBMVW7D4M7O5JSME2KYGM6A
+https://raw.githubusercontent.com/lianzi19/-/refs/heads/main/%E7%AC%AC%E4%B8%89%E7%AB%A0.txt
 第四章：
-https://raw.githubusercontent.com/lianzi19/-/refs/heads/main/%E7%AC%AC%E5%9B%9B%E7%AB%A0.txt?token=GHSAT0AAAAAADSKRABWNWTN2D64WZ4LY2ZO2KYGP2A
+https://raw.githubusercontent.com/lianzi19/-/refs/heads/main/%E7%AC%AC%E5%9B%9B%E7%AB%A0.txt
 第五章：
-https://raw.githubusercontent.com/lianzi19/-/refs/heads/main/%E7%AC%AC%E4%BA%94%E7%AB%A0.txt?token=GHSAT0AAAAAADSKRABWUBBI7UEIXCAWPNG42KYG4XQ
+https://raw.githubusercontent.com/lianzi19/-/refs/heads/main/%E7%AC%AC%E4%BA%94%E7%AB%A0.txt
 第五章_江澄分支：
-https://raw.githubusercontent.com/lianzi19/-/refs/heads/main/%E7%AC%AC%E4%BA%94%E7%AB%A0_%E6%B1%9F%E6%BE%84%E5%88%86%E6%94%AFtxt?token=GHSAT0AAAAAADSKRABWCQNPU3PGTBMEKIE22KYHAHA
+https://raw.githubusercontent.com/lianzi19/-/refs/heads/main/%E7%AC%AC%E4%BA%94%E7%AB%A0_%E6%B1%9F%E6%BE%84%E5%88%86%E6%94%AF.txt
 第五章_蓝曦臣分支：
-https://raw.githubusercontent.com/lianzi19/-/refs/heads/main/%E7%AC%AC%E4%BA%94%E7%AB%A0_%E8%93%9D%E6%9B%A6%E8%87%A3%E5%88%86%E6%94%AF.txt?token=GHSAT0AAAAAADSKRABWI44WB4Q7KKFLVAOG2KYHBCQ
+https://raw.githubusercontent.com/lianzi19/-/refs/heads/main/%E7%AC%AC%E4%BA%94%E7%AB%A0_%E8%93%9D%E6%9B%A6%E8%87%A3%E5%88%86%E6%94%AF.txt
